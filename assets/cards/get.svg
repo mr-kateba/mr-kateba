@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" role="img" aria-label="Blazma Get">
+  <title>Blazma Get</title>
+  <defs>
+    <linearGradient id="blazma" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB300"/><stop offset="1" stop-color="#FF3D00"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF3D00"/><stop offset="0.5" stop-color="#FFB300"/><stop offset="1" stop-color="#FF3D00"/></linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0.18" r="0.55"><stop offset="0" stop-color="#FF6D00" stop-opacity="0.22"/><stop offset="1" stop-color="#FF6D00" stop-opacity="0"/></radialGradient>
+    <clipPath id="round"><rect width="440" height="190" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="440" height="190" fill="#14141A"/>
+    <rect width="440" height="190" fill="url(#glow)"/>
+    <rect y="186" width="440" height="4" fill="url(#bar)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="189" rx="15.5" fill="none" stroke="#2A2A34"/>
+  <svg x="356" y="22" width="60" height="60" viewBox="0 0 100 100"><path d="M 50,3 L 91,26.5 L 91,73.5 L 50,97 L 9,73.5 L 9,26.5 Z" fill="url(#blazma)"/>
+  <path d="M 43,19 L 57,19 L 57,45 L 70,45 L 50,67 L 30,45 L 43,45 Z" fill="#FFFFFF"/>
+  <rect x="29" y="73" width="42" height="8" rx="4" fill="#FFFFFF"/></svg>
+  <g font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif">
+    <text x="344" y="48" font-size="22" font-weight="700" fill="#F2F2F5" text-anchor="end">Blazma Get</text>
+    <rect x="244.0" y="60" width="100.0" height="22" rx="11" fill="#FFB300" fill-opacity="0.12"/>
+    <text x="335" y="75.5" font-size="12.5" fill="#FFB300" direction="rtl" text-anchor="start">مدير تحميل</text>
+    <text x="416" y="114" font-size="14.5" fill="#C9C9D2" direction="rtl" text-anchor="start">مدير تحميل مجاني بواجهة عربية، بديل لـ IDM</text>
+    <text x="416" y="136" font-size="14.5" fill="#C9C9D2" direction="rtl" text-anchor="start">بدون كراك، ويحمّل أسرع بتقسيم الملف</text>
+  </g>
+  <g font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif" font-size="12" fill="#7D7D89">
+    <text x="24" y="168">Download manager</text>
+    <text x="416" y="168" text-anchor="end" fill="#FF8A33">Kotlin</text>
+  </g>
+</svg>

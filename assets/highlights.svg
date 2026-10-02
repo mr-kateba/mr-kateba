@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="6 tools, free, no tracking, Arabic UI">
+  <defs><linearGradient id="blazma" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFB300"/><stop offset="1" stop-color="#FF3D00"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="899" height="109" rx="16" fill="#14141A" stroke="#2A2A34"/>
+  <g font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif">
+    <text x="112.5" y="50" font-size="30" font-weight="800" fill="url(#blazma)" text-anchor="middle">AR</text>
+    <text x="112.5" y="76" font-size="14" fill="#E4E4EA" text-anchor="middle" direction="rtl">واجهة عربية</text>
+    <text x="112.5" y="95" font-size="11.5" fill="#7D7D89" text-anchor="middle">Arabic UI</text>
+<text x="337.5" y="50" font-size="30" font-weight="800" fill="url(#blazma)" text-anchor="middle">0</text>
+    <text x="337.5" y="76" font-size="14" fill="#E4E4EA" text-anchor="middle" direction="rtl">تتبع</text>
+    <text x="337.5" y="95" font-size="11.5" fill="#7D7D89" text-anchor="middle">tracking</text>
+<line x1="225.0" y1="26" x2="225.0" y2="88" stroke="#2A2A34"/>
+<text x="562.5" y="50" font-size="30" font-weight="800" fill="url(#blazma)" text-anchor="middle">100%</text>
+    <text x="562.5" y="76" font-size="14" fill="#E4E4EA" text-anchor="middle" direction="rtl">مجانية</text>
+    <text x="562.5" y="95" font-size="11.5" fill="#7D7D89" text-anchor="middle">free</text>
+<line x1="450.0" y1="26" x2="450.0" y2="88" stroke="#2A2A34"/>
+<text x="787.5" y="50" font-size="30" font-weight="800" fill="url(#blazma)" text-anchor="middle">6</text>
+    <text x="787.5" y="76" font-size="14" fill="#E4E4EA" text-anchor="middle" direction="rtl">أدوات</text>
+    <text x="787.5" y="95" font-size="11.5" fill="#7D7D89" text-anchor="middle">tools</text>
+<line x1="675.0" y1="26" x2="675.0" y2="88" stroke="#2A2A34"/>
+  </g>
+</svg>

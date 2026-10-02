@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64" role="img" aria-label="mr-kateba.github.io">
+  <defs><linearGradient id="blazma" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF8A00"/><stop offset="1" stop-color="#FF3D00"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="299" height="63" rx="14" fill="url(#blazma)" stroke="none"/>
+  <g font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif" text-anchor="middle">
+    <text x="150.0" y="29" font-size="17" font-weight="700" fill="#FFFFFF">mr-kateba.github.io</text>
+    <text x="150.0" y="48" font-size="12.5" fill="#FFF3E0" direction="rtl">موقع أدوات بلازما</text>
+  </g>
+</svg>
