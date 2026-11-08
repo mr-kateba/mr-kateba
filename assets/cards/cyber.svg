@@ -22,7 +22,7 @@
     <rect x="235.8" y="60" width="108.19999999999999" height="22" rx="11" fill="#FFB300" fill-opacity="0.12"/>
     <text x="335" y="75.5" font-size="12.5" fill="#FFB300" direction="rtl" text-anchor="start">أمن سيبراني</text>
     <text x="416" y="114" font-size="14.5" fill="#C9C9D2" direction="rtl" text-anchor="start">تحليل الملفات والتحليل الجنائي وأدوات</text>
-    <text x="416" y="136" font-size="14.5" fill="#C9C9D2" direction="rtl" text-anchor="start">الشبكة في تطبيق واحد، بدون إنترنت</text>
+    <text x="416" y="136" font-size="14.5" fill="#C9C9D2" direction="rtl" text-anchor="start">الشبكة في تطبيق واحد</text>
   </g>
   <g font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif" font-size="12" fill="#7D7D89">
     <text x="24" y="168">Defensive security workbench</text>
