@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/highlights.svg" width="100%" alt="6 tools · 100% free · no tracking · Arabic UI">
+  <img src="assets/highlights.svg" width="100%" alt="8 tools · 100% free · no tracking · Arabic UI">
 </p>
 
 <h2 align="center">⚡ أدوات بلازما · Blazma Tools</h2>
@@ -26,11 +26,15 @@
   <a href="https://github.com/mr-kateba/blazma-Crosshair"><img src="assets/cards/crosshair.svg" width="49%" alt="Blazma Crosshair"></a>
   <a href="https://github.com/mr-kateba/blazma-nt"><img src="assets/cards/nt.svg" width="49%" alt="blazma.nt"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/mr-kateba/Blazma-Sandbox"><img src="assets/cards/sandbox.svg" width="49%" alt="Blazma Sandbox"></a>
+  <a href="https://github.com/mr-kateba/blazma-Animation"><img src="assets/cards/animation.svg" width="49%" alt="Blazma Animation"></a>
+</p>
 
 <h2 align="center">🛠️ التقنيات · Tech</h2>
 
 <p align="center">
-  <img src="assets/tech.svg" width="100%" alt="PowerShell · TypeScript · JavaScript · Kotlin · C++ · C# · React · Electron · Windows">
+  <img src="assets/tech.svg" width="100%" alt="PowerShell · TypeScript · JavaScript · Kotlin · C++ · C# · React · Electron · Godot · .NET · Windows">
 </p>
 
 <p align="center">
