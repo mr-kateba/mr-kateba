@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://blazma.online"><img src="assets/btn-blazma.svg" width="260" alt="blazma.online"></a>
   <a href="https://mr-kateba.github.io"><img src="assets/btn-site.svg" width="260" alt="mr-kateba.github.io"></a>
 </p>
 
