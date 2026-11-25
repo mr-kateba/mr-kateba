@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/highlights.svg" width="100%" alt="8 tools · 100% free · no tracking · Arabic UI">
+  <img src="assets/highlights.svg" width="100%" alt="9 tools · 100% free · no tracking · Arabic UI">
 </p>
 
 <h2 align="center">⚡ أدوات بلازما · Blazma Tools</h2>
@@ -18,15 +18,18 @@
   <a href="https://github.com/mr-kateba/Blazma-Boost"><img src="assets/cards/boost.svg" width="49%" alt="Blazma Boost"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/mr-kateba/Blazma-Tweak"><img src="assets/cards/tweak.svg" width="49%" alt="Blazma Tweak"></a>
   <a href="https://github.com/mr-kateba/Blazma-Cyber"><img src="assets/cards/cyber.svg" width="49%" alt="Blazma Cyber"></a>
+</p>
+<p align="center">
   <a href="https://github.com/mr-kateba/Blazma-Get"><img src="assets/cards/get.svg" width="49%" alt="Blazma Get"></a>
-</p>
-<p align="center">
   <a href="https://github.com/mr-kateba/blazma-Crosshair"><img src="assets/cards/crosshair.svg" width="49%" alt="Blazma Crosshair"></a>
-  <a href="https://github.com/mr-kateba/blazma-nt"><img src="assets/cards/nt.svg" width="49%" alt="blazma.nt"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/mr-kateba/blazma-nt"><img src="assets/cards/nt.svg" width="49%" alt="blazma.nt"></a>
   <a href="https://github.com/mr-kateba/Blazma-Sandbox"><img src="assets/cards/sandbox.svg" width="49%" alt="Blazma Sandbox"></a>
+</p>
+<p align="center">
   <a href="https://github.com/mr-kateba/blazma-Animation"><img src="assets/cards/animation.svg" width="49%" alt="Blazma Animation"></a>
 </p>
 
